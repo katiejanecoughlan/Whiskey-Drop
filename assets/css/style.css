@@ -55,9 +55,6 @@ body {
 .table-container {
 }
 
-.features-container {
-}
-
 /* Page headers  */
 .page-header {
   margin-bottom: 0;
@@ -67,6 +64,10 @@ body {
 
 .page-header h2 {
   margin-top: 0;
+}
+
+.quotes .page-header {
+  margin-bottom: 25px;
 }
 
 /* Block dividers */
@@ -122,6 +123,7 @@ body {
   font-weight: bold;
   border-radius: 23px;
   width: 160px;
+  padding: 6px;
 }
 
 .btn--red {
