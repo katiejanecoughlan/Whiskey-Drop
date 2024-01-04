@@ -32,6 +32,22 @@ justify-content: center;
 
 }
 
+/* Block dividers */
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #f05f40;
+}
+
+.block-divider--orange {
+    background-color: #f05f40;
+}
+
+.block-divider--short {
+    width: 35px;
+}
+
 /* Jumbotron */
 .jumbotron {
     background-color: transparent;
